@@ -67,8 +67,4 @@ class C_multitablas extends CI_Controller
 		$this->load->view('multitablas/V_actualizar', $data);
 		$this->load->view('plantilla/V_footer');
 	}
-
-	public function Subiendo()
-	{
-	}
 }
